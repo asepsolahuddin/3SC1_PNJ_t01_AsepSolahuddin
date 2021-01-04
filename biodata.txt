@@ -1,3 +1,5 @@
 N0.REG	: 1920010030
 Nama	: Asep Solahuddin
 Jurusan	: Teknik Informatika
+Angkatan: 11
+
